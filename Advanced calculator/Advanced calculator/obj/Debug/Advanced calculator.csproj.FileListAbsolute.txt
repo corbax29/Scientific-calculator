@@ -1,0 +1,10 @@
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\bin\Debug\Advanced calculator.exe.config
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\bin\Debug\Advanced calculator.exe
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\bin\Debug\Advanced calculator.pdb
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced calculator.csproj.AssemblyReference.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced_calculator.lblDisplay.resources
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced_calculator.Properties.Resources.resources
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced calculator.csproj.GenerateResource.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced calculator.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced calculator.exe
+C:\Users\petar\Desktop\Domace pidarije\C#\Advanced calculator\Advanced calculator\obj\Debug\Advanced calculator.pdb
